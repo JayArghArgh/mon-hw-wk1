@@ -10,18 +10,17 @@ paste n go
 
 ```
 |___README.md
-|___Develop
-    |___index.html
-    |___assets
-        |___css
-            |___style.css
-        |___images
-            |___brand-awareness.png
-            |___cost-management.png
-            |___digital-marketing-meeting.jpg
-            |___online-reputation-management.jpg
-            |___search-engine-optimization.jpg
-            |___social-media-marketing.jpg
+|___index.html
+|___assets
+    |___css
+        |___style.css
+    |___images
+        |___brand-awareness.png
+        |___cost-management.png
+        |___digital-marketing-meeting.jpg
+        |___online-reputation-management.jpg
+        |___search-engine-optimization.jpg
+        |___social-media-marketing.jpg
 ```
 
 ## Review
